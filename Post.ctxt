@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=author\ blog\ webAddress
+comment0.target=Post(User,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=int\ getPostNumber()
+comment2.params=
+comment2.target=java.lang.String\ getAuthorUserName()
+comment3.params=
+comment3.target=java.lang.String\ getBlog()
+comment4.params=
+comment4.target=java.lang.String\ getWebAddress()
+numComments=5
